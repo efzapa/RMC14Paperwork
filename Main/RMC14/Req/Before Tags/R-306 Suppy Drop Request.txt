@@ -6,7 +6,7 @@
 [bolditalic]Submit to Requisitions prior to operational deployment.[/bolditalic]
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]Squad:[/bold] SQUADHERE
-[bold]Requester:[/bold] NAMEHERE, [form]
+[bold]Requester:[/bold] NAMEHERE, ROLEHERE
 
 [bold]Resupply Contents Requested:[/bold]
 [bullet] 500 x HEDP Grenades

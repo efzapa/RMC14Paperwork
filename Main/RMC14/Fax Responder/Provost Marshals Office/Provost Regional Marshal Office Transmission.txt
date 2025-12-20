@@ -4,7 +4,7 @@
 [color=#8c0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
              [color=goldenrod][head=2]Auxiliary Provost Transmission[/head][/color]
                                              [color=#383838]✦✧✦✧✦[/color]
-[bold]To:[/bold] [italic]RANKor[form] NAMEHERE[/italic]
+[bold]To:[/bold] [italic]RANKorROLE NAMEHERE[/italic]
 [bold]From:[/bold] The Auxiliary Provost Marshal Office
 [color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 Type, condemn, reprimand, etc. Watch your wording!

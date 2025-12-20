@@ -30,8 +30,8 @@ in their individual and/or corporate capacities from any and all claims, liabili
 [head=2]7. [/head][italic][color=#AAAAAA]Both parties represent have carefully read and fully understand all the provisions of this Waiver and that they are freely, knowingly and voluntarily entering into this Waiver.[/italic][/color]
 [color=#AAAAAA]===================================================[/color]
 [bold]Signed,[/bold]
-[italic][signature][/italic]
-[bold][color=#134975][form][/color][/bold]|UNS Almayer
+[italic]RANKHERE NAMEHERE[/italic]
+[bold][color=#134975]ROLEHERE[/color][/bold]|UNS Almayer
 
 [color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]

@@ -14,11 +14,11 @@
 [bullet]I understand that in the event of a major attack on the forward operating base or should the status of secure areas be revoked, I must return to the Almayer as soon as practicable.[/italic]
 
 [bold]Signed,[/bold]
-[signature]
-[color=#1b67a5][italic][form] HERE[/italic][/color]
+RANK NAMEHERE
+[color=#1b67a5][italic]ROLE HERE[/italic][/color]
 
 [bold]Authorised by,[/bold]
-[signature]
-[color=#1b67a5][italic][form][/italic][/color]
+RANK NAMEHERE
+[color=#1b67a5][italic]ROLEHERE[/italic][/color]
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

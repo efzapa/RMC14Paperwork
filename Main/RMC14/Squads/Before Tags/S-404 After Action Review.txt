@@ -4,7 +4,7 @@
 [color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
                [head=2]MEMORANDUM FOR RECORD[/head]
 [bold]To:[/bold] [bolditalic]Commander|UNS Almayer[/bolditalic]
-[bold]From:[/bold] [italic][color=#1b67a5]■[signature][/italic][/color]
+[bold]From:[/bold] [italic][color=#1b67a5]■RANK NAMEHERE[/italic][/color]
 [bold]Subject:[/bold] [bold]After Action Review of[/bold] [bolditalic]Operation No.■HERE[/bolditalic]
 [italic][color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/italic]
 [head=3]Scope of Operation [/head]
@@ -21,6 +21,6 @@
 [bullet]■How you could improve HERE, or what could SL, CIC, Req or whoever have done differently. 
 
 [bold]Signed,[/bold]
-[italic][color=#1b67a5]■[signature][/italic][/color]
-[bolditalic]■[form][/bolditalic]
+[italic][color=#1b67a5]■RANK NAMEHERE[/italic][/color]
+[bolditalic]■ROLE[/bolditalic]
 [italic][color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/italic][/italic]

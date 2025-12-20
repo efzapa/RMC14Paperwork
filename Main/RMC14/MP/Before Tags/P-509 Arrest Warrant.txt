@@ -13,8 +13,8 @@ You are ordered forthwith to arrest the above named defendant(s) and bring them 
 All UNMC laws are to be followed during this arrest.[/bolditalic]
 
 [bold]Crimes charged:[/bold]
-[bullet] [form]
-[bullet] [form] 
+[bullet] Write here
+[bullet] Write here 
 
 [bold]Defendant(s) is considered:[/bold]
 [  ] Non-UNMC

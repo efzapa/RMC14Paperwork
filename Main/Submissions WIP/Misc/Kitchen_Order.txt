@@ -19,7 +19,7 @@
  [italic]WRITEHERE[/italic]
 [italic][bold][color=#0784ba]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Received by,[/bold]
-[head=3][color=#AA8760][italic]      [signature][/italic][/color][/head],
+[head=3][color=#AA8760][italic]      RANK NAME[/italic][/color][/head],
 [bold]Chef[/bold]
 
 [italic][bold][color=#0784ba]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]

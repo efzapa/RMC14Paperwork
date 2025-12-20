@@ -16,8 +16,8 @@ The [color=#1b67a5][bold]CO[/bold][/color], [color=#1b67a5][bold]XO[/bold][/colo
 The Liaison has the legal right to distribute any confidential information gathered during an operation in Weston-Yamada territory to their Superiors. This right is rescinded in situations where the subject documents belong to the UN and, by extension, the UNMC. Refusal to allow a Liaison to communicate sensitive information to the Company is considered grounds for legal action. Furthermore, any information gathered by the UNMC during an operation that belongs to the Weston-Yamada Corporation is considered confidential.
 
 Signed,
-[italic][signature],[/italic]
-[bold][form] of the UNS Almayer[/bold]
+[italic]RANK NAME,[/italic]
+[bold]ROLEHERE of the UNS Almayer[/bold]
 ------------------------------------------------------------------------------------------
 [color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]

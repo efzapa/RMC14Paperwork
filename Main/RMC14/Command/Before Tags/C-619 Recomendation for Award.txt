@@ -6,10 +6,10 @@
 [color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [italic]For actions above and beyond the call of duty, exceptional courage, distinguished, gallant or good conduct.[/italic]
 [bold][color=#1b67a5]- Recommendee[/bold][/color] -
-[bold]Name: [/bold][italic][form][/italic]
-[bold]Rank: [/bold][italic][form][/italic]
+[bold]Name: [/bold][italic]■NAMEHERE[/italic]
+[bold]Rank: [/bold][italic]■RANKHERE[/italic]
 [bold]Reason:[/bold]
-[bullet][form]
+[bullet]■WRITE THEIR HEROIC DEEDS HERE
 [color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]Award/s for which recommended:[/bold]
 <      > [color=Plum]Bronze Heart Medal[/color]
@@ -19,11 +19,11 @@
 [bold]Posthumous:[/bold] YES <     >  NO <  ✔  >  
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Signed,[/bold]
-[color=#1b67a5][italic][signature][/italic][/color]
-[bold][form][/bold]
+[color=#1b67a5][italic]■RANK NAMEHERE[/italic][/color]
+[bold]ROLEHERE[/bold]
 
 [bold]Approved by,[/bold]
-[color=#1b67a5][italic][signature][/italic][/color]
+[color=#1b67a5][italic]■RANKHERE NAMEHERE[/italic][/color]
 [bold]Commanding Officer|UNS [bolditalic]Almayer[/bolditalic][/color]
 [color=#AAAAAA]===================================================[/color] 
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

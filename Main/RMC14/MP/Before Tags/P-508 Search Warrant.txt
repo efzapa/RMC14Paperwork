@@ -20,7 +20,7 @@
 [bullet] DESCRIBEHERE
 
 [bold]Signed,[/bold]
-[italic][signature][/italic]
+[italic]RANKHERE NAMEHERE[/italic]
 [bold]Chief Military Police[/bold]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
                    [bold]Note for the Provost Marshal Office[/bold]

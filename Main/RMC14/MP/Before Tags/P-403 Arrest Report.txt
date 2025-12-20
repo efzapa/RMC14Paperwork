@@ -20,7 +20,7 @@
 [bullet]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Signed,[/bold]
-[color=#134975][italic][signature][/italic][/color]
+[color=#134975][italic]RANK NAMEHERE[/italic][/color]
 [bold][color=#cb0000]Military Police[/color][/bold] | [italic]Arresting Officer[/italic]
 [color=#570202][italic]==================================================[/italic][/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

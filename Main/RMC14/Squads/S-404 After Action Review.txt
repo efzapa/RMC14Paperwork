@@ -22,5 +22,5 @@
 
 [bold]Signed,[/bold]
 [italic][color=#1b67a5]■[signature][/italic][/color]
-[bolditalic]■[form][/bolditalic]
+[bolditalic]■ROLE[/bolditalic]
 [italic][color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/italic][/italic]

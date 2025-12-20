@@ -29,7 +29,7 @@
 [bullet/] Any discrepancies will be subject to investigation under the Uniform Code of Military Justice (UCMJ).
 
 [bold]Reviewed By:[/bold]
-[color=#1b67a5][italic][signature][/italic][/color]
+[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
 [bolditalic]Chief Medical Officer[/bolditalic]
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic] 

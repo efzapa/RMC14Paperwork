@@ -20,7 +20,7 @@ Total Causality Evacuations: #
 [bullet]Other: #
 
 Additional Flight Information:
-[italic][form][/italic]
+[italic]WRITE HERE[/italic]
 
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
                                   [head=3]- DECLARATION -[/head]
@@ -30,7 +30,7 @@ Additional Flight Information:
 
 [bold]Signed,[/bold]
 [head=3][color=#AA8760][italic]RANK + NAME[/italic][/color][/head]
-[bold][form][/bold]
+[bold]ROLEHERE[/bold]
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [color=#E41B1B][italic]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
 

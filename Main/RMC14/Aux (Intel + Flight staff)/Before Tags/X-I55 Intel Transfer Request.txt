@@ -3,13 +3,13 @@
 [color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
           [head=1][color=#287015]Intel. Transfer Request[/color][/head]
 
-I, [bolditalic][signature], [form][/bolditalic] hereby request to be attached to an [color=#287015][bold]Intelligence Officer[/bold][/color] for the duration of my deployment.
-[bold]Current squad:[/bold] [form]
+I, [bolditalic]RANK NAME, ROLE[/bolditalic] hereby request to be attached to an [color=#287015][bold]Intelligence Officer[/bold][/color] for the duration of my deployment.
+[bold]Current squad:[/bold] WRITE HERE
 [bold]Reason for request:[/bold]
-[bullet][italic][form][/italic]
+[bullet][italic]WRITE HERE[/italic]
 
 Signed,
-    [italic][signature],[/italic] [bold][form][/bold]
+    [italic]RANK NAME,[/italic] [bold]ROLEHERE[/bold]
 [italic][bold][color=#AAAAAA]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [color=#72856d][italic]Signing of this document by no means guarantees attachment to a intelligence officer or transfer to the intelligence squad. This request may be denied by the receiving command member for any reason.[/italic][/color]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
@@ -17,6 +17,6 @@ Signed,
 
                  [head=1][color=green]APPROVED[/color]|[color=red]DENIED[/color][/head]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[bold]Authorised by[/bold] [italic][signature],[/italic] [bold][form][/bold]
+[bold]Authorised by[/bold] [italic]RANK NAME,[/italic] [bold]ROLE[/bold]
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

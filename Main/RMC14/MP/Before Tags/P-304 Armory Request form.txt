@@ -6,30 +6,30 @@
 [head=2][bold]Requesting Personnel[/bold][/head]
 [bold]Name:[/bold] NAMEHERE
 [bold]Rank:[/bold] RANKEHERE
-[bold]Position:[/bold] [form]
+[bold]Position:[/bold] ROLEHERE
 
 [head=2]Requested Item(s)[/head]
 [bold]Weapons Requested:[/bold]
-[bullet] [form]
-[bullet] [form] 
+[bullet] Write here
+[bullet] Write here 
 
 [bold]Attachments Requested:[/bold]
-[bullet] [form]
-[bullet] [form]
-[bullet] [form]
+[bullet] Write Here
+[bullet] Write Here
+[bullet] Write Here
 
 [bold]Ammunition Requested:[/bold]
-[bullet] [form]
-[bullet] [form] 
+[bullet] Write here
+[bullet] Write here 
 
 [bold]Additional Requests:[/bold] WRITEHERE
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 Requested by,
-[color=#1b67a5][italic][signature][/italic][/color]
-[bolditalic][form][/bolditalic]
+[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
+[bolditalic]ROLEHERE[/bolditalic]
 
 Approved by, 
-[color=#1b67a5][italic][signature][/italic][/color]
-[bolditalic][form][/bolditalic]
+[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
+[bolditalic]ROLEHERE[/bolditalic]
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

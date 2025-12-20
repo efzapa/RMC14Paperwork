@@ -18,12 +18,12 @@ LIST THE RESULTS OF RESEARCH
 [italic][color=Gray]I, the Researcher assigned to this project, certify the contents of this document are factual to the extent of my knowledge.
 [/color][/italic]
 Signed,
-[italic][color=#1b67a5][signature][/color][/italic]
+[italic][color=#1b67a5]RANK NAME[/color][/italic]
 
 [italic][color=Gray]I, the Chief Medical Officer of the UNS Alamyer, have reviewed this document and determined this project to be concluded.[/color][/italic]
 
 Signed,
-[italic][color=#1b67a5][signature][/color],[/italic]
+[italic][color=#1b67a5]RANK NAME[/color],[/italic]
 [bolditalic]Chief Medical Officer[/bolditalic]
 
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]

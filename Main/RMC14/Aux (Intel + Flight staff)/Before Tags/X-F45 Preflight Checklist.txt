@@ -18,13 +18,13 @@
 - < ✔ > Safety Equipment Check
 
 [bold]Notes:[/bold]
- [italic][form][/italic]
+ [italic]Write Here[/italic]
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [italic]I certify that I have completed all the preflight checks listed above, and that the aircraft is deemed airworthy in accordance with UNMC regulations and safety protocols. 
 Any discrepancies found have been reported and addressed.[/italic]
 
 [bold]Signed,[/bold]
-[head=3][color=#AA8760][italic][signature][/italic][/color][/head]
+[head=3][color=#AA8760][italic]RANK NAME[/italic][/color][/head]
 [bold]Pilot[/bold]
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [color=#AAAAAA][italic][bullet]This Preflight Checklist must be completed and signed before every flight operation. 

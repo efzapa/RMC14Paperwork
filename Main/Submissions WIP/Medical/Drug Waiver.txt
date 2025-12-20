@@ -13,7 +13,7 @@
 [bullet/]I understand that I alone am liable for any possible health issues that may occur to any person(s) I dispense General Cure to
 [/italic]
 Signed,
-[italic][signature][/italic]
+[italic]RANK NAME[/italic]
 [color=#AA8760]SQUAD Hospital Corpsman[/color]
 
 [color=#AAAAAA]===================================================[/color]

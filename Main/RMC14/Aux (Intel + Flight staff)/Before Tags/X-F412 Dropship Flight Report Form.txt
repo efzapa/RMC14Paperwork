@@ -10,19 +10,19 @@
 
 [bold]Departure from Almayer:[/bold] 
 Marines Onboard: #
-Special Personnel Onboard: # [form]
+Special Personnel Onboard: # ROLE
 
 Detailed Cargo Onboard: 
-[italic][bullet][form]
-[bullet][form]*
+[italic][bullet]WRITE HERE
+[bullet]WRITE HERE*
 [/italic]
 [bold]Departure to Almayer:[/bold]
 Marines Onboard: #
-Special Personnel Onboard: # [form]
+Special Personnel Onboard: # ROLE
 
 Detailed Cargo Onboard: 
-[italic][bullet][form]
-[bullet][form]*
+[italic][bullet]WRITE HERE
+[bullet]WRITE HERE*
 [/italic]
 [bold]Misc. Information:[/bold]
 Total Fire Missions: #
@@ -30,7 +30,7 @@ Total Fire Missions: #
 [bullet]Multi-Purpose Rounds Fired: #
 
 Additional Flight Information:
-[italic][form][/italic]
+[italic]WRITE HERE[/italic]
 
 [italic]Cargo marked with an asterisk (*) were retrieved with utilization of Close Air Support Evacuation Systems[/italic]
 
@@ -42,7 +42,7 @@ Additional Flight Information:
 
 [bold]Signed,[/bold]
 [head=3][color=#AA8760][italic]RANK + NAME[/italic][/color][/head]
-[bold][form][/bold]
+[bold]ROLEHERE[/bold]
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [color=#E41B1B][italic]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
 

@@ -3,17 +3,17 @@
 [color=#8c0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
                        [head=1]Record of Arrest[/head]
 
-[bold]Recording Officer:[/bold] [signature]
-[bold]Arresting Officer:[/bold] [signature]
+[bold]Recording Officer:[/bold] RANK NAMEHERE
+[bold]Arresting Officer:[/bold] RANK NAMEHERE
 
 [bold][head=3]Offender's Details[/head][/bold]
 [bold]Name:[/bold] NAMEHERE
 [bold]Rank:[/bold] RANKEHERE
-[bold]Position:[/bold] [form]
+[bold]Position:[/bold] ROLEHERE
 
 [bold]Crimes charged:[/bold]
-[bullet] [form]
-[bullet] [form] 
+[bullet] Write here
+[bullet] Write here 
 [bold]Total sentence:[/bold]
 
 [bold]Notable events prior to arrest:[/bold] WRITEHERE
@@ -22,8 +22,8 @@
 
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Certified by,[/bold]
-[color=#1b67a5][italic][signature][/italic][/color]
-[bolditalic][form][/bolditalic]
+[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
+[bolditalic]ROLEHERE[/bolditalic]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [italic]The signatory certifies all of the above is true, and contains proper context. The signatory agrees to be interviewed about the arrest if required in a future investigation.
 This document is to be kept on physical record for a minimum period of five (5) years, and digital record permanently.[/italic]

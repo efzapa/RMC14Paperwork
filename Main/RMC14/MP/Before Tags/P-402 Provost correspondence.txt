@@ -5,14 +5,14 @@
         [head=1]Provost Correspondence[/head]
 
 [bold]To:[/bold] [bold][color=#cb0000]The Provost Marshal Office[/color][/bold]
-[bold]From:[/bold] [signature] | [color=#cb0000]UNS [italic]Almayer[/italic][/color]
-[bold]Subject:[/bold] [italic][form][/italic]
+[bold]From:[/bold] RANK NAMEHERE | [color=#cb0000]UNS [italic]Almayer[/italic][/color]
+[bold]Subject:[/bold] [italic]WRITE HERE[/italic]
 [color=#134975][bold]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold]
 [italic]WRITE REPORT HERE[/italic]
 
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Signed,[/bold]
-[color=#134975][italic][signature][/italic][/color]
-[bold][color=#cb0000][form][/color][/bold]
+[color=#134975][italic]RANK NAMEHERE[/italic][/color]
+[bold][color=#cb0000]ROLEHERE[/color][/bold]
 [color=#570202][italic]==================================================[/italic][/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
