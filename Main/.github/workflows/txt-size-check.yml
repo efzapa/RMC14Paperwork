@@ -1,0 +1,56 @@
+name: Check changed .txt file sizes
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+
+jobs:
+  txt-size:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history for diff base)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fail if any changed .txt exceeds 10,000 chars
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          base="${{ github.event.pull_request.base.sha }}"
+          head="${{ github.event.pull_request.head.sha }}"
+
+          echo "Comparing $base..$head"
+
+          # Get changed .txt files (Added/Copied/Modified/Renamed)
+          mapfile -t files < <(git diff --name-only --diff-filter=ACMR "$base" "$head" -- '*.txt' || true)
+
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No changed .txt files."
+            exit 0
+          fi
+
+          bad=0
+          for f in "${files[@]}"; do
+            # Skip if file doesn't exist in the head (e.g. weird rename edge cases)
+            if ! git cat-file -e "$head:$f" 2>/dev/null; then
+              echo "Skipping (not present in head): $f"
+              continue
+            fi
+
+            # Count characters from the blob at HEAD (not working tree)
+            count="$(git show "$head:$f" | wc -m | tr -d ' ')"
+
+            if [ "$count" -gt 10000 ]; then
+              echo "::error file=$f::File has $count characters (limit 10000)"
+              bad=1
+            else
+              echo "OK: $f ($count chars)"
+            fi
+          done
+
+          exit "$bad"
